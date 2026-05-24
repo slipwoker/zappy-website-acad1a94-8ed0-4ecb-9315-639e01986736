@@ -1,0 +1,109 @@
+# BN1 (Box And 1) — Generative Engine Optimization Map
+
+> BN1 (Box And 1) is a brutalist, blacked-out streetwear performance brand living at the intersection of NYC street basketball culture, editorial grit, and elite athletic discipline. The brand identity is raw, aggressive, and disciplined — built on gritty concrete courts, chain-link fences, dark training rooms, and the sweat-soaked grind of real athletes. BN1's voice is short, punchy, and unapologetic ('BUILT IN THE DARK', 'NO HUDDLES. JUST WORK.', 'GRIND FIRST. TALK LATER.'), with zero corporate language and zero softness. The visual world demands ultra-sharp 9:16 editorial imagery, harsh shadows, motion blur, and a fast-cut kinetic energy that mirrors the Box-and-1 mentality — relentless, precise, and built in the dark.
+
+---
+
+## Pages
+
+### Home
+https://bn1-box-and-1-acad1a94.zappy5.app
+BN1 is raw streetball culture apparel forged on NYC courts and dark training rooms. No corporate noise — just elite urban athletic streetwear built for real athletes who grind.
+
+### BN1 Story
+https://bn1-box-and-1-acad1a94.zappy5.app/bn1-story
+BN1 Story | BN1 (Box And 1). streetball culture apparel
+
+### Performance System
+https://bn1-box-and-1-acad1a94.zappy5.app/performance-system
+Performance System | BN1 (Box And 1). streetball culture apparel
+
+### Lookbook
+https://bn1-box-and-1-acad1a94.zappy5.app/lookbook
+Lookbook | BN1 (Box And 1). streetball culture apparel
+
+### Street Authority
+https://bn1-box-and-1-acad1a94.zappy5.app/street-authority
+Street Authority | BN1 (Box And 1). streetball culture apparel
+
+### Contact Support
+https://bn1-box-and-1-acad1a94.zappy5.app/contact-support
+Contact Support | BN1 (Box And 1). streetball culture apparel
+
+### Products
+https://bn1-box-and-1-acad1a94.zappy5.app/products
+Our Products - BN1 (Box And 1)
+
+### Cart
+https://bn1-box-and-1-acad1a94.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://bn1-box-and-1-acad1a94.zappy5.app/checkout
+Checkout
+
+### Login
+https://bn1-box-and-1-acad1a94.zappy5.app/login
+Customer Login
+
+### Account
+https://bn1-box-and-1-acad1a94.zappy5.app/account
+My Account
+
+### Order Success
+https://bn1-box-and-1-acad1a94.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://bn1-box-and-1-acad1a94.zappy5.app/product/:slug
+Product Details - BN1 (Box And 1)
+
+### Category
+https://bn1-box-and-1-acad1a94.zappy5.app/category/:slug
+Products - BN1 (Box And 1)
+
+## Legal & Policy
+
+### Privacy Policy
+https://bn1-box-and-1-acad1a94.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bn1-box-and-1-acad1a94.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bn1-box-and-1-acad1a94.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About BN1 (Box And 1)
+BN1 (Box And 1) is a brutalist, blacked-out streetwear performance brand living at the intersection of NYC street basketball culture, editorial grit, and elite athletic discipline. The brand identity is raw, aggressive, and disciplined — built on gritty concrete courts, chain-link fences, dark training rooms, and the sweat-soaked grind of real athletes. BN1's voice is short, punchy, and unapologetic ('BUILT IN THE DARK', 'NO HUDDLES. JUST WORK.', 'GRIND FIRST. TALK LATER.'), with zero corporate language and zero softness. The visual world demands ultra-sharp 9:16 editorial imagery, harsh shadows, motion blur, and a fast-cut kinetic energy that mirrors the Box-and-1 mentality — relentless, precise, and built in the dark.
+
+## Target Audience
+- athletes, streetball culture enthusiasts, urban fashion consumers
+- Streetball Culture Enthusiasts
+- Urban Fashion Consumers
+- Performance Athletes
+
+## Industry
+Streetwear & Athletic Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bn1-box-and-1-acad1a94.zappy5.app/sitemap.xml
+- Robots: https://bn1-box-and-1-acad1a94.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bn1-box-and-1-acad1a94.zappy5.app/llms-full.txt
+- Products (JSON): https://bn1-box-and-1-acad1a94.zappy5.app/products.json
+- Products (Google Merchant RSS): https://bn1-box-and-1-acad1a94.zappy5.app/product-feed.xml
