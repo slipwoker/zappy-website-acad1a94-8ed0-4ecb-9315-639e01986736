@@ -7,73 +7,73 @@
 ## Pages
 
 ### Home
-https://bn1-box-and-1-acad1a94.zappy5.app
+https://example.com
 BN1 is raw streetball culture apparel forged on NYC courts and dark training rooms. No corporate noise — just elite urban athletic streetwear built for real athletes who grind.
 
 ### BN1 Story
-https://bn1-box-and-1-acad1a94.zappy5.app/bn1-story
+https://example.com/bn1-story
 BN1 Story | BN1 (Box And 1). streetball culture apparel
 
 ### Performance System
-https://bn1-box-and-1-acad1a94.zappy5.app/performance-system
+https://example.com/performance-system
 Performance System | BN1 (Box And 1). streetball culture apparel
 
 ### Lookbook
-https://bn1-box-and-1-acad1a94.zappy5.app/lookbook
+https://example.com/lookbook
 Lookbook | BN1 (Box And 1). streetball culture apparel
 
 ### Street Authority
-https://bn1-box-and-1-acad1a94.zappy5.app/street-authority
+https://example.com/street-authority
 Street Authority | BN1 (Box And 1). streetball culture apparel
 
 ### Contact Support
-https://bn1-box-and-1-acad1a94.zappy5.app/contact-support
+https://example.com/contact-support
 Contact Support | BN1 (Box And 1). streetball culture apparel
 
 ### Products
-https://bn1-box-and-1-acad1a94.zappy5.app/products
+https://example.com/products
 Our Products - BN1 (Box And 1)
 
 ### Cart
-https://bn1-box-and-1-acad1a94.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://bn1-box-and-1-acad1a94.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://bn1-box-and-1-acad1a94.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://bn1-box-and-1-acad1a94.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://bn1-box-and-1-acad1a94.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://bn1-box-and-1-acad1a94.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - BN1 (Box And 1)
 
 ### Category
-https://bn1-box-and-1-acad1a94.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - BN1 (Box And 1)
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://bn1-box-and-1-acad1a94.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://bn1-box-and-1-acad1a94.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://bn1-box-and-1-acad1a94.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Streetwear & Athletic Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://bn1-box-and-1-acad1a94.zappy5.app/sitemap.xml
-- Robots: https://bn1-box-and-1-acad1a94.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://bn1-box-and-1-acad1a94.zappy5.app/llms-full.txt
-- Products (JSON): https://bn1-box-and-1-acad1a94.zappy5.app/products.json
-- Products (Google Merchant RSS): https://bn1-box-and-1-acad1a94.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
